@@ -1,4 +1,4 @@
-# Plataforma de ventas en línea
+# Plataforma de ventas en línea "Almas Dulces"
 
 ## Preámbulo
 
@@ -19,38 +19,13 @@ el de la sociedad.
 ¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida en la nueva era?
 
 ## Introducción
+Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de México con el objetivo de brindar un servicio de mesa de dulces para eventos especiales de forma personalizada y brindar atención durante todo el proceso. 
 
-### “Nuevo portal de e-commerce”
+Con la finalidad de mejor la experiencia del usuario se realizó un análisis del negocio para detectar áreas de oportunidad para mejorar la experiencia del usuario y beneficiar a Almas Dulces. Con ello se generó una propuesta de identidad de marca y desarrollo de un sitio web que permita a los clientes visualizar el trabajo de Almas Dulces y poder realizar una cotización desde el porta.
 
-Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una 
-iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y 
-crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una 
-compra. Entre los emprendimientos que puedes elegir están:
-
-- Bio Aquatic
-- Cucú Caramelo
-- Almas Dulces
-- Vaca Sagrada
-- Luna Maya 
-- Solovino Club
-- Yi-yi portabebés
-- Kuuch Kalán
-- Darjeeling MX
-- Juntitos los dos
-
-Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1bkLd6lVd0Ev3ytCfX_20_q8wL_ENKhYXEsSU8MWNHA8/edit#gid=0)
-
-Luego de elegir con quién trabajarás, ayudarás al emprendedor o emprendedora por medio de un estudio inicial a poder 
-visualizar cómo debería ser este portal de ventas, así como una mejor forma de ofrecer los productos a los consumidores. Para 
-ello, necesitarás averiguar cómo son las y los usuarios que utilizarían este canal de venta y cuáles son sus motivaciones, 
-cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
-
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+## Entendimiento del problema
+*Industria*
+![Industria](https://imgur.com/bOvjZRX)
 
 ## Objetivos de aprendizaje
 
@@ -69,41 +44,9 @@ productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
 sus objetivos. También, deberás definir los contenidos, la interacción y el
 diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
 plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
 
-## Tópicos a cubrir
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
 
-## Consideraciones generales
-
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
-
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
 
 * Benchmark: revisar referencias y dar referencias es clave para tu relación con
 el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
