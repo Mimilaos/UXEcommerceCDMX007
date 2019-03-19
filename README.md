@@ -29,7 +29,31 @@ Análisis de competidores
 Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 1. En [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfLYzdm8gZ-IMnjXBsfmTgdbcVzxlvMtzr4tIMo2gMF-cS7NA/viewform) se desarrolló una encuesta con 10 preguntas para conocer las preferencias de consumo de las personas que han buscado servicios de mesas de dulces. Para conocer los resultados consultar [aquí](https://docs.google.com/document/u/0/)
 
+#### Insights relevantes
+- El 29% no adquiere el servicio de mesas de dulces por altos costos.
+- El 11% de las personas no adquieren el servicio de mesas de dulces al pensar que el producto es de mala calidad.
+- El 64% de las personas se fijan en la decoración para adquirir una mesa de dulces. 
+- El 33% adquiriría mesa de dulces sin azúcar al considerar entre sus invitados a las personas con alguna enfermedad.
+- El 28% está poco dispuesto en comprar dulces en internet por desconocimiento de su sabor y calidad. 
+
 2. Realización de una entrevista a profundidad con 4 personas que han adquirido el servicio de mesas de dulces, con lo cual se creó una [entrevsita semiestructurada](https://docs.google.com/document/u/0/)como guía. Para conocer a detalle las respuestas consultar [aquí](https://docs.google.com/document/?authuser=0&usp=docs_web).
+
+#### Insights relevantes
+- El 100% adquiere el servicio por recomendaciones al darles más confianza.
+- Las personas adquieren el servicio de mesas de dulces para eventos que consideran realmente especiales en sus vidas.
+- El servicio de mesas de dulces es considerado como un servicio de moda.
+- Las personas buscan diseñar una adecuada mesa de dulces para tener una buena imagen ante los invitados.
+- Las personas buscan imágenes del producto para tomar la decisión.
+- Las personas buscan personalizar su mesa por lo que esperan poder  elegir los  dulces que quiere.
+- Las personas desconfían del servicio de mesas de dulces por haber experimentado un fraude.
+- No es primordial mesa de dulces sin azúcar
+
+### User
+![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
+
+
+## Propuesta
+### Branding 
 
 
 ### Flujo de contenido 
@@ -225,45 +249,6 @@ herramienta adicional como Marvel o Invision. Recuerda que el diseño que
 trabajes debe seguir los fundamentos de visual design, como: contraste,
 alineación, jerarquía, entre otros.
 
-## Hacker edition
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
 
-## Evaluación
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad y cada nivel. 
-A continuación presentamos las habilidades que deberías desarrollar durante este proyecto:
 
-### UX Design
-
-|Habilidad|
-|:---|
-|User centricity
-|Planificación
-|Entrevistas y testing
-|Observación
-|Síntesis de resultados
-|Flujos de usuario
-|Arquitectura de la información
-|Prototyping
-|Business mindset
-|Visual Design
-
-### Habilidades blandas
-
-|Habilidad|
-|:---|
-|Planificación y organización
-|Autoaprendizaje
-|Solución de problemas
-|Dar y recibir feedback
-|Adaptabilidad
-|Trabajo en equipo
-|Comunicación eficaz
-|Presentaciones
