@@ -5,18 +5,9 @@
 Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
 empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
 modelos de negocio que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. Es 
-importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. La época de los pure players 
-se acerca a su fin.
+importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. 
 
-Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea. En 2017 el 65.5% de la 
-población tuvo acceso a Internet, lo que equivale a 85 millones de personas, de las cuales el 32% ya había hecho alguna compra 
-por internet.
-
-El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito, pero estos casos no se 
-conseguirán en corto plazo, esto será el resultado de construir un círculo virtuoso donde quepan el progreso de la economía y 
-el de la sociedad.
-
-¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida en la nueva era?
+Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea,por lo que el e-commerce en México presenta un gran potencial de crecimiento. 
 
 ## Introducción
 Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de México con el objetivo de brindar un servicio de mesa de dulces para eventos especiales de forma personalizada y brindar atención durante todo el proceso. 
@@ -24,8 +15,26 @@ Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de M�
 Con la finalidad de mejor la experiencia del usuario se realizó un análisis del negocio para detectar áreas de oportunidad para mejorar la experiencia del usuario y beneficiar a Almas Dulces. Con ello se generó una propuesta de identidad de marca y desarrollo de un sitio web que permita a los clientes visualizar el trabajo de Almas Dulces y poder realizar una cotización desde el porta.
 
 ## Entendimiento del problema
-*Industria*
-![Industria](https://imgur.com/bOvjZRX)
+Industria
+![Industria](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Investigaci%C3%B3n_Almas%20Dulces.png)
+
+Análisis de competidores
+![Análisis de competidores](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Benchmark_Almas%20Dulces.png)
+
+### Hipótesis
+1. Las personas que solicitan el servicio de mesas de dulces no están interesados en adquirir mesas con dulces sin azúcar. 
+2. Las personas buscan un canal digital para obtener una atención personalizada para obtener un presupuesto y diseñar su mesa de dulces. 
+
+## Definición del público objetivo 
+Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
+1. En [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfLYzdm8gZ-IMnjXBsfmTgdbcVzxlvMtzr4tIMo2gMF-cS7NA/viewform) se desarrolló una encuesta con 10 preguntas para conocer las preferencias de consumo de las personas que han buscado servicios de mesas de dulces. Para conocer los resultados consultar [aquí](https://docs.google.com/document/u/0/)
+
+2. Realización de una entrevista a profundidad con 4 personas que han adquirido el servicio de mesas de dulces, con lo cual se creó una [entrevsita semiestructurada](https://docs.google.com/document/u/0/)como guía. Para conocer a detalle las respuestas consultar [aquí](https://docs.google.com/document/?authuser=0&usp=docs_web).
+
+
+### Flujo de contenido 
+
+![Flujo de contenido](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Flujo%20de%20Informaci%C3%B3n_Almas%20Dulces.jpg)
 
 ## Objetivos de aprendizaje
 
