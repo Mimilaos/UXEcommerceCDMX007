@@ -34,7 +34,24 @@ Para conocer los competidores de Almas Dulces en canales digitales se realizó u
 
 
 ### Análisis del negocio 
-Almas Dulces es un micronegocio que requirió ser entendio con base en la perspectiva del cliente para identificar el estado actual de la marca y propuestas de valor.
+Almas Dulces es un micronegocio que requirió ser entendio con base en la perspectiva del cliente para identificar el estado actual de la marca y propuesta de valor.
+
+### Entrevista con cliente
+Con la finalidad de conocer el negocio se realizó una entrevista a profundidad con Gabriela Tayde, líder del proyecto "Almas Dulces"p ara conocer los siguientes aspectos: 
+
+- Empresa y Filosofía
+- Público Objetivo 
+- Producto
+- Competencia 
+- Estrategias anteriores y futuras 
+- Organización
+- Políticas de venta 
+- Contacto 
+- Donación
+
+* [Guía de entrevista a profundidad](https://docs.google.com/document/d/1TkI9WIPwz7ehQ1V9Rti0nE1wx7ozuny-5L2pxeftT9w/edit)
+* [Transcripción de la entrevista](https://docs.google.com/document/d/1F2-MN8DMYPSlY3QwfzyCFYUxdYV59WXGp6XeO9fzCAI/edit)
+
 
 #### Business Model Canvas
 ![Business Model Canvas](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Business%20Model%20Canvas_Almas%20Dulces.jpg)
