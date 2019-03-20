@@ -16,9 +16,9 @@ El valor agregado se centra en ofrecer no solo dulces convencionales si no tambi
 
 Nuestro método de investigación partio de conceptos de Desing Thinking para desarrollar una inovación centrada en las personas y conocer de manera profunda las posibles soluciones de nuestro problema. 
 
+![Método](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/UX_Proceso.png)
+
  
-
-
 ## Entendimiento del problema
 Con la finalidad de mejorar la experiencia del usuario se realizó un análisis del sector y del negocio para detectar áreas de oportunidad, mejoras en la experiencia del usuario e identificar áreas de oportunidad  para Almas Dulces.
 
@@ -36,7 +36,10 @@ Para conocer los competidores de Almas Dulces en canales digitales se realizó u
 ### Análisis del negocio 
 Almas Dulces es un micronegocio que requirió ser entendio con base en la perspectiva del cliente para identificar el estado actual de la marca y propuestas de valor.
 
+#### Business Model Canvas
 ![Business Model Canvas](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Business%20Model%20Canvas_Almas%20Dulces.jpg)
+
+#### Lean UX
 ![Lean UX](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Lean%20UX_Almas%20Dulces.jpg)
 
 ### Entrevista con cliente 
