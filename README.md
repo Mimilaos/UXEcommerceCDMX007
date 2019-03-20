@@ -12,14 +12,38 @@ Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron 
 ## Introducción
 Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de México con el objetivo de brindar un servicio de mesa de dulces para eventos especiales de forma personalizada y brindar atención durante todo el proceso. 
 
-Con la finalidad de mejor la experiencia del usuario se realizó un análisis del negocio para detectar áreas de oportunidad para mejorar la experiencia del usuario y beneficiar a Almas Dulces. Con ello se generó una propuesta de identidad de marca y desarrollo de un sitio web que permita a los clientes visualizar el trabajo de Almas Dulces y poder realizar una cotización desde el porta.
+El valor agregado se centra en ofrecer no solo dulces convencionales si no también dulces sin azúcar para complementar las mesas de dulces y satisfacer los gustos de todo tipo de invitados. Aunado a ello, Almas Dulces busca generar un impacto social a través de donar una mesa de dulces a organizaciones sociales al haber vendido 10 mesas. 
+
+Nuestro método de investigación partio de conceptos de Desing Thinking para desarrollar una inovación centrada en las personas y conocer de manera profunda las posibles soluciones de nuestro problema. 
+
+ 
+
 
 ## Entendimiento del problema
+Con la finalidad de mejorar la experiencia del usuario se realizó un análisis del sector y del negocio para detectar áreas de oportunidad, mejoras en la experiencia del usuario e identificar áreas de oportunidad  para Almas Dulces.
+
 ### Industria
+Almas Dulces tiene como objetivo estar inmersa en el mercado de dulces sin azúcar, por ello se realizó un análisis del mercado healthy en México, el mercado de la cofiteria y el negocio de las mesas de dulces. 
+
 ![Industria](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Investigaci%C3%B3n_Almas%20Dulces.png)
 
 ### Análisis de competidores
+Para conocer los competidores de Almas Dulces en canales digitales se realizó una benchmark de emprendimientos con perfiles en Facebook, Instagram y aqullos que contaran con un sitio web para conocer su servicio, línea de comunicación y contenidos. Asimismo, se indago el costo de las mesas de dulces y el promedio de respuesta ante solicitudes de información. 
+
 ![Análisis de competidores](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Benchmark_Almas%20Dulces.png)
+
+
+### Análisis del negocio 
+Almas Dulces es un micronegocio que requirió ser entendio con base en la perspectiva del cliente para identificar el estado actual de la marca y propuestas de valor.
+
+![Business Model Canvas](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Business%20Model%20Canvas_Almas%20Dulces.jpg)
+![Lean UX](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Lean%20UX_Almas%20Dulces.jpg)
+
+### Entrevista con cliente 
+
+guia de la entrevista 
+transcripción 
+
 
 ### Hipótesis
 1. Las personas que solicitan el servicio de mesas de dulces no están interesados en adquirir mesas con dulces sin azúcar. 
@@ -52,22 +76,35 @@ Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 ![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
 
 ## Problema 
-
+""Atraer a un mayor número de clientes a través de internet.
+Disminuir el tiempo de búsqueda de nuevos clientes de manera offline y poner todos los esfuerzos en tener una mayor presencia online para llegar a esos clientes.
+Se cuenta con un sitio web informativo que se actualiza muy poco.
+Dice tener una tienda en línea pero en realidad sólo es un catálogo digital no actualizado.
+No se tienen publicados todos los tipos de productos y servicios que ofrecen.
+Aunque han recibido mensajes a través del chat y se les da seguimiento no ha sido el adecuado, haciendo que se pierdan clientes potenciales.
+Ciertos eslabones de la cadena de servicio generan desconfianza.
+No cuenta con los certificados de seguridad requeridos.""
 ## Propuesta
 
 ### Branding 
 Almas Dulces no contaba con un posicionamiento de marca, por tal motivo se desarrolló el logotipo, la tipografía,paleta de color y aplicaciones para generar una identidad visual y ser reconocida en canales digitales y eventos. 
+
+![Logo](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Logo_Almas%20Dulces.PNG)
 
 Consultar más detalles [aquí](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Branding_Almas%20Dulces.png)
 
 ### Red Social
 Almas Dulces cuenta con un perfil en Facebook inactivo, esto representa un área de oportunidad poco aprovechada ya que los consumidores de mesas de dulces utilizan esta red social para obtener recomendaciones en grupos, conocer de cerca los productos y obtener más información. 
 
-Como sugerencia se creo una serie de [recomendaciones]() para reactivar el perfil de Facebook y continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
+Como sugerencia se creo una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook y continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
 
 ### Sitio Web
 A través de las investigación del mercado y entendimiento de los usuarios se detectó que el el objetivo de la clienta, impulsar la venta de dulces sin azúcar, no sería posible durante la primera fase, al ser el objetivo un posicionamiento de marca para continuar la captación de usuarios que buscan servicios de mesas de dulces.
 Las personas afines buscan un servicio personalizado que les permita elegir los dulces y decoración de sus mesas,con una pronta respuesta sobre cotización y obtener más información del producto que se está vendiendo. 
+
+OBJETIVO UX 
+
+#### Sketching 
 
  
 #### Flujo de contenido 
@@ -83,52 +120,7 @@ Para realizar el prototipo del sitio web se diseño en
 
 
 
-### 3) Planteamiento y validación de la solución
 
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
-
-## Implementación
-
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
-
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto. 
 * Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
@@ -136,49 +128,13 @@ README.md  explicando el proceso del proyecto:
 * Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
   diseños con desarrolladores.
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
-
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
-
-## Otras consideraciones
-
-### 1) Planeamiento y presupuesto
 
 Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
 ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
 con las actividades planteadas.
 
 ### 2) Definición del producto
-
-Al definir el producto recuerda pensar en:
-
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
-
-### 3) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
 
 
 
