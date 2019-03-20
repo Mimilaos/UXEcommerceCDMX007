@@ -75,15 +75,15 @@ Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 ### User
 ![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
 
+
+
 ## Problema 
-""Atraer a un mayor número de clientes a través de internet.
-Disminuir el tiempo de búsqueda de nuevos clientes de manera offline y poner todos los esfuerzos en tener una mayor presencia online para llegar a esos clientes.
-Se cuenta con un sitio web informativo que se actualiza muy poco.
-Dice tener una tienda en línea pero en realidad sólo es un catálogo digital no actualizado.
-No se tienen publicados todos los tipos de productos y servicios que ofrecen.
-Aunque han recibido mensajes a través del chat y se les da seguimiento no ha sido el adecuado, haciendo que se pierdan clientes potenciales.
-Ciertos eslabones de la cadena de servicio generan desconfianza.
-No cuenta con los certificados de seguridad requeridos.""
+### Cliente 
+![Problema Cliente]()
+
+### Usuario 
+![Problema Usuario]()
+
 ## Propuesta
 
 ### Branding 
