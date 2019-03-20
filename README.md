@@ -15,10 +15,10 @@ Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de M�
 Con la finalidad de mejor la experiencia del usuario se realizó un análisis del negocio para detectar áreas de oportunidad para mejorar la experiencia del usuario y beneficiar a Almas Dulces. Con ello se generó una propuesta de identidad de marca y desarrollo de un sitio web que permita a los clientes visualizar el trabajo de Almas Dulces y poder realizar una cotización desde el porta.
 
 ## Entendimiento del problema
-Industria
+### Industria
 ![Industria](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Investigaci%C3%B3n_Almas%20Dulces.png)
 
-Análisis de competidores
+### Análisis de competidores
 ![Análisis de competidores](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Benchmark_Almas%20Dulces.png)
 
 ### Hipótesis
@@ -51,6 +51,7 @@ Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 ### User
 ![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
 
+## Problema 
 
 ## Propuesta
 
@@ -72,6 +73,9 @@ Las personas afines buscan un servicio personalizado que les permita elegir los 
 #### Flujo de contenido 
 
 ![Flujo de contenido](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Flujo%20de%20Informaci%C3%B3n_Almas%20Dulces.jpg)
+
+### Prototipo
+Para realizar el prototipo del sitio web se diseño en 
 
 ### Testing
 
