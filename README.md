@@ -59,12 +59,6 @@ Con la finalidad de conocer el negocio se realizó una entrevista a profundidad 
 #### Lean UX
 ![Lean UX](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Lean%20UX_Almas%20Dulces.jpg)
 
-### Entrevista con cliente 
-
-guia de la entrevista 
-transcripción 
-
-
 ### Hipótesis
 1. Las personas que solicitan el servicio de mesas de dulces no están interesados en adquirir mesas con dulces sin azúcar. 
 2. Las personas buscan un canal digital para obtener una atención personalizada para obtener un presupuesto y diseñar su mesa de dulces. 
@@ -95,14 +89,20 @@ Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 ### User
 ![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
 
-
-
 ## Problema 
 ### Cliente 
-![Problema Cliente]()
+![Problema Cliente](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Cliente_Almas%20Dulces.PNG)
+
+
+#### Dulces sin azúcar 
+El objetivo de la líder de la empresa era impulsar y dar a conocer los dulces sin azúcar que elabora junto con su equipo de trabajo y ofrecerlos en las mesas de dulces, sin embargo, tras haber realizado la investigación de mercado y entrevistas con usuarios se encontró que el sector interesado en adquirir mesas de dulces no está interesado. Sin embargo, posterior a un posicionamiento de marca se propone impulsar los productos en una segunda iteracción.
+
+Insight
+![Insight]()
+
 
 ### Usuario 
-![Problema Usuario]()
+![Problema Usuario](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Usuario_Almas%20Dulces.PNG )
 
 ## Propuesta
 
@@ -116,10 +116,11 @@ Consultar más detalles [aquí](https://github.com/Cristalgarcia/UXEcommerceCDMX
 ### Red Social
 Almas Dulces cuenta con un perfil en Facebook inactivo, esto representa un área de oportunidad poco aprovechada ya que los consumidores de mesas de dulces utilizan esta red social para obtener recomendaciones en grupos, conocer de cerca los productos y obtener más información. 
 
-Como sugerencia se creo una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook y continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
+Como sugerencia se creo una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook de Almas Dulces, continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
 
 ### Sitio Web
-A través de las investigación del mercado y entendimiento de los usuarios se detectó que el el objetivo de la clienta, impulsar la venta de dulces sin azúcar, no sería posible durante la primera fase, al ser el objetivo un posicionamiento de marca para continuar la captación de usuarios que buscan servicios de mesas de dulces.
+
+A través de las investigación del mercado, entrevista con cliente y usuario se detectó que el  objetivo de la clienta es impulsar la venta de dulces sin azúcar, no sería posible durante la primera fase, al ser el objetivo un posicionamiento de marca para continuar la captación de usuarios que buscan servicios de mesas de dulces.
 Las personas afines buscan un servicio personalizado que les permita elegir los dulces y decoración de sus mesas,con una pronta respuesta sobre cotización y obtener más información del producto que se está vendiendo. 
 
 OBJETIVO UX 
