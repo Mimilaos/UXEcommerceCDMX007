@@ -121,7 +121,7 @@ Almas Dulces cuenta con un perfil en Facebook inactivo, esto representa un área
 
 Como sugerencia se creó una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook de Almas Dulces, continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
 
-![Template]()
+![Template](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Facebook.png)
 
 ### Sitio Web
 Una de las principales necesidades de los usuarios es poder personalizar su mesa de dulces acorde al evento, tipo de dulces y decoración. Asimismo, desean tener una visualización previa del tipo de mesa de dulces que se ofrecen, calidad de los productos y costos para la toma de desición. Encontramos que una área de oportunidad era desarrollar un sitio web que lograra satisfacer esta necesidad. 
