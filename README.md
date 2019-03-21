@@ -130,57 +130,56 @@ La web app consiste en:
 - Contacto: Redes sociales y número telefonicos para contactar al personas de Almas Dulces.
 - Conocenos: Información detallada del concepto de Almas Dulces, dando a conocer la venta de dulces sin azúcar y el proyecto de donación. 
 
-![Menú]()
+![Menú](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/men%C3%BA_app_Almas%20Dulces.PNG)
 
-OBJETIVO UX 
-La experiencia de usuario reside en la herramienta de cotización ya que las personas buscan tener a la brevedad un presupuesto de su mesa de dulces y poderla personalizar. 
+### OBJETIVO UX 
+La experiencia de usuario reside en la herramienta de cotización ya que las personas buscan tener a la brevedad un presupuesto de su mesa de dulces, poderla personalizar y dar seguimiento a la cotización.
 
 1. El usuario tendrá que llegar un formulario con datos generales; nombre, número de invitados, ubicación del evento, tipo de evento y fecha de realización.
 
+![menu](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/men%C3%BA_app_Almas%20Dulces.PNG)
+
 2. Elegir los dulces correspondientes a su paquete. Podra elegir la marca de cada uno de ellos y servicios adicionales para acompletar la experiencia de su mesa de dulces.
+
+![elegir](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/elegir%20dulces_AD.PNG)
 
 3. Consultar el presupuesto de la mesa acorde a lo solicitado. 
 
+![presupuesto](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/hoja%20de%20cotizaci%C3%B3n_AD.PNG)
+
 4. Enviar la cotización vía correo electronico y/o contactar a Almas Dulces vía Whatsapp para confirmar cotización. 
+
+![contacto](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Contacto_AD.PNG)
 
 5. Consultar nuevamente. 
 
-
-
-
-
-
 #### Sketching 
+El diseño se realizó mobile firts.
+Consultar prototipo [aquí](https://docs.google.com/document/u/0/?usp=docs_web)
 
- 
 #### Flujo de contenido 
 
 ![Flujo de contenido](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Flujo%20de%20Informaci%C3%B3n_Almas%20Dulces.jpg)
 
 ### Prototipo
-Para realizar el prototipo del sitio web se diseño en 
+El prototipo del sitio web se diseñó en  Ilustration, Photoshop y Marvel.
+Para visualizar la interfaz dar clic [aquí](https://marvelapp.com/1dj53ig6/screen/54650744) 
+
+![Home]()
+
 
 ### Testing
+El prototipo se testeó con 7 usuarios para conocer las áreas de oportunidad de nuestra web app. Los hallazgos fueron los sigueintes:
+![Testing]()
+
+#### Modificaciones 
+
+- Incluir en el sitio web un chat para responder las preguntas más frecuentes de los usuarios.
+- Darle más protagonismo a los dulces sin azúcar.  
+- Darle a los usuarios la posibilidad de  seleccionar más dulces de otras secciones. 
+- Incluir un apartado donde incluyan dulces que no están en el catálogo. 
 
 
-
-
-
-
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
-
-
-
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
-
-### 2) Definición del producto
 
 
 
