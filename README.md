@@ -4,10 +4,9 @@
 
 Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
 empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
-modelos de negocio que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. Es 
-importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. 
-
-Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea,por lo que el e-commerce en México presenta un gran potencial de crecimiento. 
+modelos de negocio, que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. 
+Es 
+importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea, por lo que el e-commerce en México presenta un gran potencial de crecimiento. 
 
 ## Introducción
 Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de México con el objetivo de brindar un servicio de mesa de dulces para eventos especiales de forma personalizada y brindar atención durante todo el proceso. 
