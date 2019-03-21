@@ -19,7 +19,7 @@ Nuestro método de investigación partio de conceptos de Desing Thinking para de
 
  
 ## Entendimiento del problema
-Con la finalidad de mejorar la experiencia del usuario se realizó un análisis del sector y del negocio para detectar áreas de oportunidad, mejoras en la experiencia del usuario e identificar áreas de oportunidad  para Almas Dulces.
+Con la finalidad de mejorar la experiencia del usuario se realizó un análisis del sector y del negocio para detectar áreas de oportunidad y mejoras en la experiencia del usuario.
 
 ### Industria
 Almas Dulces tiene como objetivo estar inmersa en el mercado de dulces sin azúcar, por ello se realizó un análisis del mercado healthy en México, el mercado de la cofiteria y el negocio de las mesas de dulces. 
@@ -27,7 +27,7 @@ Almas Dulces tiene como objetivo estar inmersa en el mercado de dulces sin azúc
 ![Industria](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Investigaci%C3%B3n_Almas%20Dulces.png)
 
 ### Análisis de competidores
-Para conocer los competidores de Almas Dulces en canales digitales se realizó una benchmark de emprendimientos con perfiles en Facebook, Instagram y aqullos que contaran con un sitio web para conocer su servicio, línea de comunicación y contenidos. Asimismo, se indago el costo de las mesas de dulces y el promedio de respuesta ante solicitudes de información. 
+Para conocer los competidores de Almas Dulces en canales digitales se realizó una benchmark de emprendimientos del mismo sector con perfiles en Facebook, Instagram y  sitio web para conocer su servicio, línea de comunicación y contenidos. Asimismo, se indagó el costo de las mesas de dulces y el promedio de respuesta ante solicitudes de información. 
 
 ![Análisis de competidores](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Benchmark_Almas%20Dulces.png)
 
@@ -178,7 +178,7 @@ El prototipo se testeó con 7 usuarios para conocer las áreas de oportunidad de
 - Incluir en el sitio web un chat para responder las preguntas más frecuentes de los usuarios.
 - Darle más protagonismo a los dulces sin azúcar.  
 - Darle a los usuarios la posibilidad de  seleccionar más dulces de otras secciones. 
-- Incluir un apartado donde incluyan dulces que no están en el catálogo. 
+- Tener la posibilidad de incluir dulces que no estén en el catálogo. 
 
 ## Presentación con cliente
 
