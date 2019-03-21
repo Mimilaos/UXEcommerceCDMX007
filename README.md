@@ -184,6 +184,9 @@ El prototipo se testeó con 7 usuarios para conocer las áreas de oportunidad de
 
 - Visualizar la presentación con cliente [aquí](https://docs.google.com/presentation/d/1Afyej12o_nXlqiFQeQZJ-t6elFd_jBuX0SarHZRB1p0/edit#slide=id.p)
 
+## Video en lool
+![video](https://www.useloom.com/share/8a8ecffcd85b4453a6279153a18c2943) 
+
 # Autoras 
 - Nohemi Eugenia Moreno Coronado
 - Cristal Grisel García Gutiérrez
