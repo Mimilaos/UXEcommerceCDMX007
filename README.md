@@ -37,7 +37,7 @@ Para conocer los competidores de Almas Dulces en canales digitales se realizó u
 Almas Dulces es un micronegocio que requirió ser entendio con base en la perspectiva del cliente para identificar el estado actual de la marca y propuesta de valor.
 
 ### Entrevista con cliente
-Con la finalidad de conocer el negocio se realizó una entrevista a profundidad con Gabriela Tayde, líder del proyecto "Almas Dulces"p ara conocer los siguientes aspectos: 
+Con la finalidad de conocer el negocio se realizó una entrevista a profundidad con Gabriela Tayde, líder del proyecto "Almas Dulces", para conocer los siguientes aspectos: 
 
 - Empresa y Filosofía
 - Público Objetivo 
@@ -64,8 +64,8 @@ Con la finalidad de conocer el negocio se realizó una entrevista a profundidad 
 2. Las personas buscan un canal digital para obtener una atención personalizada para obtener un presupuesto y diseñar su mesa de dulces. 
 
 ## Definición del público objetivo 
-Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
-1. En [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfLYzdm8gZ-IMnjXBsfmTgdbcVzxlvMtzr4tIMo2gMF-cS7NA/viewform) se desarrolló una encuesta con 10 preguntas para conocer las preferencias de consumo de las personas que han buscado servicios de mesas de dulces. Para conocer los resultados consultar [aquí](https://docs.google.com/document/u/0/)
+Para conocer las experiencias y opiniones de los usuarios se realizaron dos fases:
+1. En [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfLYzdm8gZ-IMnjXBsfmTgdbcVzxlvMtzr4tIMo2gMF-cS7NA/viewform) se desarrolló una encuesta con 10 preguntas para indagar las preferencias de consumo de las personas que han buscado servicios de mesas de dulces. Para conocer los resultados consultar [aquí](https://docs.google.com/document/u/0/)
 
 #### Insights relevantes
 - El 29% no adquiere el servicio de mesas de dulces por altos costos.
@@ -74,7 +74,7 @@ Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 - El 33% adquiriría mesa de dulces sin azúcar al considerar entre sus invitados a las personas con alguna enfermedad.
 - El 28% está poco dispuesto en comprar dulces en internet por desconocimiento de su sabor y calidad. 
 
-2. Realización de una entrevista a profundidad con 4 personas que han adquirido el servicio de mesas de dulces, con lo cual se creó una [entrevsita semiestructurada](https://docs.google.com/document/u/0/)como guía. Para conocer a detalle las respuestas consultar [aquí](https://docs.google.com/document/?authuser=0&usp=docs_web).
+2. Realización de una entrevista a profundidad con 4 personas que han adquirido el servicio de mesas de dulces, con lo cual se creó una [entrevsita semiestructurada](https://docs.google.com/document/u/0/) como guía. Para conocer a detalle las respuestas consultar [aquí](https://docs.google.com/document/?authuser=0&usp=docs_web).
 
 #### Insights relevantes
 - El 100% adquiere el servicio por recomendaciones al darles más confianza.
@@ -90,15 +90,16 @@ Para conocer las experiencias y opiniones del usuarios se realizaron dos fases:
 ![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
 
 ## Problema 
-### Cliente 
 ![Problema Cliente](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Cliente_Almas%20Dulces.PNG)
 
 
 #### Dulces sin azúcar 
-El objetivo de la líder de la empresa era impulsar y dar a conocer los dulces sin azúcar que elabora junto con su equipo de trabajo y ofrecerlos en las mesas de dulces, sin embargo, tras haber realizado la investigación de mercado y entrevistas con usuarios se encontró que el sector interesado en adquirir mesas de dulces no está interesado. Sin embargo, posterior a un posicionamiento de marca se propone impulsar los productos en una segunda iteracción.
+El objetivo de la líder del emprendimiento era impulsar y dar a conocer los dulces sin azúcar que elabora junto con su equipo de trabajo y ofrecerlos en las mesas de dulces, sin embargo, tras haber realizado la investigación de mercado y entrevistas con usuarios se encontró que el sector interesado en adquirir mesas de dulces no está interesado. Sin embargo, posterior a un posicionamiento de marca se propone impulsar los productos en una segunda iteracción.
 
 Insight
-![Insight]()
+![Insight](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Dulces%20sin%20az%C3%BAcar_Almas%20Dulces.jpg)
+
+![Gráfica](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/gr%C3%A1fica_dulces%20sin%20az%C3%BAcar_Almas%20Dulces.PNG)
 
 
 ### Usuario 
@@ -107,7 +108,9 @@ Insight
 ## Propuesta
 
 ### Branding 
-Almas Dulces no contaba con un posicionamiento de marca, por tal motivo se desarrolló el logotipo, la tipografía,paleta de color y aplicaciones para generar una identidad visual y ser reconocida en canales digitales y eventos. 
+Almas Dulces no contaba con una imagen de marca, por tal motivo se desarrolló el logotipo, la elección de tipografía, paleta de color y aplicaciones para generar una identidad visual y ser reconocida en canales digitales y eventos. 
+
+En la imagen su busca capturar que Almas Dulces es un proyecto de mujeres mexicanas y que los principales dulces que solicitan en el servicio son los mexicanos. Se puede apreciar que la muñeca está sujetando dulces y hojas de stevia, ingrediente que se utiliza para elaborar dulces sin azúcar. 
 
 ![Logo](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Logo_Almas%20Dulces.PNG)
 
@@ -116,14 +119,36 @@ Consultar más detalles [aquí](https://github.com/Cristalgarcia/UXEcommerceCDMX
 ### Red Social
 Almas Dulces cuenta con un perfil en Facebook inactivo, esto representa un área de oportunidad poco aprovechada ya que los consumidores de mesas de dulces utilizan esta red social para obtener recomendaciones en grupos, conocer de cerca los productos y obtener más información. 
 
-Como sugerencia se creo una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook de Almas Dulces, continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
+Como sugerencia se creó una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook de Almas Dulces, continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
 
 ### Sitio Web
+Una de las principales necesidades de los usuarios es poder personalizar su mesa de dulces acorde al evento, tipo de dulces y decoración. Asimismo, desean tener una visualización previa del tipo de mesa de dulces que se ofrecen, calidad de los productos y costos para la toma de desición. Encontramos que una área de oportunidad era desarrollar un sitio web que lograra satisfacer esta necesidad. 
 
-A través de las investigación del mercado, entrevista con cliente y usuario se detectó que el  objetivo de la clienta es impulsar la venta de dulces sin azúcar, no sería posible durante la primera fase, al ser el objetivo un posicionamiento de marca para continuar la captación de usuarios que buscan servicios de mesas de dulces.
-Las personas afines buscan un servicio personalizado que les permita elegir los dulces y decoración de sus mesas,con una pronta respuesta sobre cotización y obtener más información del producto que se está vendiendo. 
+La web app consiste en: 
+- Cotización: Es una herramienta para realizar una cotización de una mesa de dulces acorde a las necesidades del evento y del cliente. 
+- Galería: Muestra una serie de cinco fotos de las mesas de dulces que se han presentado en diversos eventos, boda, bautizo, XV años, fiestas infantiles, eventos corporativos.
+- Contacto: Redes sociales y número telefonicos para contactar al personas de Almas Dulces.
+- Conocenos: Información detallada del concepto de Almas Dulces, dando a conocer la venta de dulces sin azúcar y el proyecto de donación. 
+
+![Menú]()
 
 OBJETIVO UX 
+La experiencia de usuario reside en la herramienta de cotización ya que las personas buscan tener a la brevedad un presupuesto de su mesa de dulces y poderla personalizar. 
+
+1. El usuario tendrá que llegar un formulario con datos generales; nombre, número de invitados, ubicación del evento, tipo de evento y fecha de realización.
+
+2. Elegir los dulces correspondientes a su paquete. Podra elegir la marca de cada uno de ellos y servicios adicionales para acompletar la experiencia de su mesa de dulces.
+
+3. Consultar el presupuesto de la mesa acorde a lo solicitado. 
+
+4. Enviar la cotización vía correo electronico y/o contactar a Almas Dulces vía Whatsapp para confirmar cotización. 
+
+5. Consultar nuevamente. 
+
+
+
+
+
 
 #### Sketching 
 
