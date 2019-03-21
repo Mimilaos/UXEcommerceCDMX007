@@ -121,6 +121,8 @@ Almas Dulces cuenta con un perfil en Facebook inactivo, esto representa un área
 
 Como sugerencia se creó una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook de Almas Dulces, continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
 
+![Template]()
+
 ### Sitio Web
 Una de las principales necesidades de los usuarios es poder personalizar su mesa de dulces acorde al evento, tipo de dulces y decoración. Asimismo, desean tener una visualización previa del tipo de mesa de dulces que se ofrecen, calidad de los productos y costos para la toma de desición. Encontramos que una área de oportunidad era desarrollar un sitio web que lograra satisfacer esta necesidad. 
 
@@ -137,7 +139,7 @@ La experiencia de usuario reside en la herramienta de cotización ya que las per
 
 1. El usuario tendrá que llegar un formulario con datos generales; nombre, número de invitados, ubicación del evento, tipo de evento y fecha de realización.
 
-![menu](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/men%C3%BA_app_Almas%20Dulces.PNG)
+![menu](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/formulario_AL.PNG)
 
 2. Elegir los dulces correspondientes a su paquete. Podra elegir la marca de cada uno de ellos y servicios adicionales para acompletar la experiencia de su mesa de dulces.
 
@@ -165,12 +167,12 @@ Consultar prototipo [aquí](https://docs.google.com/document/u/0/?usp=docs_web)
 El prototipo del sitio web se diseñó en  Ilustration, Photoshop y Marvel.
 Para visualizar la interfaz dar clic [aquí](https://marvelapp.com/1dj53ig6/screen/54650744) 
 
-![Home]()
+![Home](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/home_AD.PNG)
 
 
 ### Testing
 El prototipo se testeó con 7 usuarios para conocer las áreas de oportunidad de nuestra web app. Los hallazgos fueron los sigueintes:
-![Testing]()
+![Testing](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Testing_Almas%20Dulces.jpg)
 
 #### Modificaciones 
 
@@ -178,6 +180,14 @@ El prototipo se testeó con 7 usuarios para conocer las áreas de oportunidad de
 - Darle más protagonismo a los dulces sin azúcar.  
 - Darle a los usuarios la posibilidad de  seleccionar más dulces de otras secciones. 
 - Incluir un apartado donde incluyan dulces que no están en el catálogo. 
+
+## Presentación con cliente
+
+- Visualizar la presentación con cliente [aquí](https://docs.google.com/presentation/d/1Afyej12o_nXlqiFQeQZJ-t6elFd_jBuX0SarHZRB1p0/edit#slide=id.p)
+
+# Autoras 
+- Nohemi Eugenia Moreno Coronado
+- Cristal Grisel García Gutiérrez
 
 
 
