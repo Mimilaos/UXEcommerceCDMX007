@@ -1,7 +1,7 @@
 # Plataforma de ventas en línea "Almas Dulces"
 
 ## Preámbulo
-
+Hola
 Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
 empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
 modelos de negocio, que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. 
