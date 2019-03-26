@@ -1,317 +1,198 @@
-# Plataforma de ventas en línea
+# Plataforma de ventas en línea "Almas Dulces"
 
 ## Preámbulo
 Hola
 Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
 empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
-modelos de negocio que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. Es 
-importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. La época de los pure players 
-se acerca a su fin.
-
-Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea. En 2017 el 65.5% de la 
-población tuvo acceso a Internet, lo que equivale a 85 millones de personas, de las cuales el 32% ya había hecho alguna compra 
-por internet.
-
-El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito, pero estos casos no se 
-conseguirán en corto plazo, esto será el resultado de construir un círculo virtuoso donde quepan el progreso de la economía y 
-el de la sociedad.
-
-¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida en la nueva era?
+modelos de negocio, que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. 
+Es 
+importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea, por lo que el e-commerce en México presenta un gran potencial de crecimiento. 
 
 ## Introducción
+Almas Dulces es un proyecto creado por tres mujeres mexicanas de la Ciudad de México con el objetivo de brindar un servicio de mesa de dulces para eventos especiales de forma personalizada y brindar atención durante todo el proceso. 
 
-### “Nuevo portal de e-commerce”
+El valor agregado se centra en ofrecer no solo dulces convencionales si no también dulces sin azúcar para complementar las mesas de dulces y satisfacer los gustos de todo tipo de invitados. Aunado a ello, Almas Dulces busca generar un impacto social a través de donar una mesa de dulces a organizaciones sociales al haber vendido 10 mesas. 
 
-Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una 
-iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y 
-crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una 
-compra. Entre los emprendimientos que puedes elegir están:
+Nuestro método de investigación partio de conceptos de Desing Thinking para desarrollar una inovación centrada en las personas y conocer de manera profunda las posibles soluciones de nuestro problema. 
 
-- Bio Aquatic
-- Cucú Caramelo
-- Almas Dulces
-- Vaca Sagrada
-- Luna Maya 
-- Solovino Club
-- Yi-yi portabebés
-- Kuuch Kalán
-- Darjeeling MX
-- Juntitos los dos
+![Método](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/UX_Proceso.png)
 
-Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1bkLd6lVd0Ev3ytCfX_20_q8wL_ENKhYXEsSU8MWNHA8/edit#gid=0)
+ 
+## Entendimiento del problema
+Con la finalidad de mejorar la experiencia del usuario se realizó un análisis del sector y del negocio para detectar áreas de oportunidad y mejoras en la experiencia del usuario.
 
-Luego de elegir con quién trabajarás, ayudarás al emprendedor o emprendedora por medio de un estudio inicial a poder 
-visualizar cómo debería ser este portal de ventas, así como una mejor forma de ofrecer los productos a los consumidores. Para 
-ello, necesitarás averiguar cómo son las y los usuarios que utilizarían este canal de venta y cuáles son sus motivaciones, 
-cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
+### Industria
+Almas Dulces tiene como objetivo estar inmersa en el mercado de dulces sin azúcar, por ello se realizó un análisis del mercado healthy en México, el mercado de la cofiteria y el negocio de las mesas de dulces. 
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+![Industria](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Investigaci%C3%B3n_Almas%20Dulces.png)
 
-## Objetivos de aprendizaje
+### Análisis de competidores
+Para conocer los competidores de Almas Dulces en canales digitales se realizó una benchmark de emprendimientos del mismo sector con perfiles en Facebook, Instagram y  sitio web para conocer su servicio, línea de comunicación y contenidos. Asimismo, se indagó el costo de las mesas de dulces y el promedio de respuesta ante solicitudes de información. 
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+![Análisis de competidores](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Infograf%C3%ADa_Benchmark_Almas%20Dulces.png)
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
 
-## Tópicos a cubrir
+### Análisis del negocio 
+Almas Dulces es un micronegocio que requirió ser entendio con base en la perspectiva del cliente para identificar el estado actual de la marca y propuesta de valor.
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+### Entrevista con cliente
+Con la finalidad de conocer el negocio se realizó una entrevista a profundidad con Gabriela Tayde, líder del proyecto "Almas Dulces", para conocer los siguientes aspectos: 
 
-## Consideraciones generales
+- Empresa y Filosofía
+- Público Objetivo 
+- Producto
+- Competencia 
+- Estrategias anteriores y futuras 
+- Organización
+- Políticas de venta 
+- Contacto 
+- Donación
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+* [Guía de entrevista a profundidad](https://docs.google.com/document/d/1TkI9WIPwz7ehQ1V9Rti0nE1wx7ozuny-5L2pxeftT9w/edit)
+* [Transcripción de la entrevista](https://docs.google.com/document/d/1F2-MN8DMYPSlY3QwfzyCFYUxdYV59WXGp6XeO9fzCAI/edit)
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+#### Business Model Canvas
+![Business Model Canvas](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Business%20Model%20Canvas_Almas%20Dulces.jpg)
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+#### Lean UX
+![Lean UX](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Lean%20UX_Almas%20Dulces.jpg)
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+### Hipótesis
+1. Las personas que solicitan el servicio de mesas de dulces no están interesados en adquirir mesas con dulces sin azúcar. 
+2. Las personas buscan un canal digital para obtener una atención personalizada para obtener un presupuesto y diseñar su mesa de dulces. 
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+## Definición del público objetivo 
+Para conocer las experiencias y opiniones de los usuarios se realizaron dos fases:
+1. En [Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSfLYzdm8gZ-IMnjXBsfmTgdbcVzxlvMtzr4tIMo2gMF-cS7NA/viewform) se desarrolló una encuesta con 10 preguntas para indagar las preferencias de consumo de las personas que han buscado servicios de mesas de dulces. Para conocer los resultados consultar [aquí](https://docs.google.com/document/u/0/)
 
-## Parte Obligatoria
+#### Insights relevantes
+- El 29% no adquiere el servicio de mesas de dulces por altos costos.
+- El 11% de las personas no adquieren el servicio de mesas de dulces al pensar que el producto es de mala calidad.
+- El 64% de las personas se fijan en la decoración para adquirir una mesa de dulces. 
+- El 33% adquiriría mesa de dulces sin azúcar al considerar entre sus invitados a las personas con alguna enfermedad.
+- El 28% está poco dispuesto en comprar dulces en internet por desconocimiento de su sabor y calidad. 
 
-### 1) General
+2. Realización de una entrevista a profundidad con 4 personas que han adquirido el servicio de mesas de dulces, con lo cual se creó una [entrevsita semiestructurada](https://docs.google.com/document/u/0/) como guía. Para conocer a detalle las respuestas consultar [aquí](https://docs.google.com/document/?authuser=0&usp=docs_web).
 
-En este proyecto necesitarás salir a hablar con usuarios reales y entender
-cuáles son sus necesidades, cómo las resuelven actualmente y proponer una
-solución óptima para resolver estas necesidades. Mientras resuelves el proyecto
-vas a tener que ir documentando las actividades que realices a través de fotos,
-videos, textos y scripts. Utiliza tu en Google Drive para guardar toda esta
-documentación y luego linkea las partes más importantes en el `README.md` de tu
-repositorio en GitHub.
+#### Insights relevantes
+- El 100% adquiere el servicio por recomendaciones al darles más confianza.
+- Las personas adquieren el servicio de mesas de dulces para eventos que consideran realmente especiales en sus vidas.
+- El servicio de mesas de dulces es considerado como un servicio de moda.
+- Las personas buscan diseñar una adecuada mesa de dulces para tener una buena imagen ante los invitados.
+- Las personas buscan imágenes del producto para tomar la decisión.
+- Las personas buscan personalizar su mesa por lo que esperan poder  elegir los  dulces que quiere.
+- Las personas desconfían del servicio de mesas de dulces por haber experimentado un fraude.
+- No es primordial mesa de dulces sin azúcar
 
-En este caso el README.md será la portada de tu solución final, en él tendrás
-que mostrar la solución final a través de screenshots y podrás compartir links a
-las secciones que detallaremos más adelante.
+### User
+![User](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/USER_Almas%20Dulces.jpg)
 
-### 2) Entendimiento del problema
+## Problema 
+![Problema Cliente](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Cliente_Almas%20Dulces.PNG)
 
-Durante esta parte te asegurarás que el producto que diseñarás es el correcto,
-es decir, que sigue objetivos de negocio y que resuelve necesidades reales de
-los usuarios. Para ello tendrás que entender al cliente (el miembro de la
-Asociación Nacional de Pequeños Comerciantes con quien estás trabajando) y a los
-usuarios. Luego de entender el problema, tendrás que plantear cómo es que vas a
-resolver dicho problema. Para ello puedes realizar muchas actividades, sin
-embargo el tiempo y los recursos que tienes son limitados. Tendrás que elegir
-bien qué actividades realizarás.
 
-### 3) Planteamiento y validación de la solución
+#### Dulces sin azúcar 
+El objetivo de la líder del emprendimiento era impulsar y dar a conocer los dulces sin azúcar que elabora junto con su equipo de trabajo y ofrecerlos en las mesas de dulces, sin embargo, tras haber realizado la investigación de mercado y entrevistas con usuarios se encontró que el sector interesado en adquirir mesas de dulces no está interesado. Sin embargo, posterior a un posicionamiento de marca se propone impulsar los productos en una segunda iteracción.
 
-Luego de haber definido cómo es que será la solución, es decir qué
-funcionalidades tendrá y por qué, tendrás que implementarla. En este caso,
-tendrás que hacer un prototipo de alta fidelidad y tendrás que validarlo. Cómo
-en el caso anterior, para crear y validar la solución puedes realizar muchas
-actividades, depende de ti elegir cuáles son las más adecuadas para el caso y
-los recursos que tienes.
+Insight
+![Insight](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Dulces%20sin%20az%C3%BAcar_Almas%20Dulces.jpg)
 
-## Implementación
+![Gráfica](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/gr%C3%A1fica_dulces%20sin%20az%C3%BAcar_Almas%20Dulces.PNG)
 
-Para poder realizar este proyecto tendrás un presupuesto de 300 puntos. Estos
-puntos los podrás utilizar realizando las actividades del siguiente cuadro.
-Antes de empezar a realizar estas actividades tendrás que sustentar con tu coach
-o jedi master cómo es que distribuirás estos puntos en estas actividades.
-El coach o jedi master te dará el ok para que puedas empezar.
 
-|Actividad|Descripción|Puntos|
-|:----|:---|:---:|
-|Entendimiento del problema, la industria y el contexto| Entender el contexto del negocio y lo que existe hoy en día respecto de la industria del proyecto. | 15 |
-|Entrevistas con cliente|Realización de entrevistas con el cliente (dueño del reto) y establecimiento de sus metas y objetivos.|25|
-|Benchmark| Revisión de features de la competencia y referencias análogas. | 20 |
-|Entrevistas con usuarios| Entrevistas en profundidad con al menos 5 usuarios. | 60 |
-|Observación contextual| Observación de al menos 5 usuarios en un contexto real de uso/compra. | 35 |
-|Inventario de contenidos| Inventario de todos los contenidos de un producto. | 15 |
-|Flujo / árbol de contenidos|Documento que estructura contenidos y su navegación|15|
-|Card Sorting| Actividad para entender el modelo mental de los usuarios en términos de organización de los contenidos. | 15 |
-|Testeo de soluciones actuales de la competencia| Sesiones de testing de productos actuales de la competencia para ver qué atributos valoran los usuarios. Al menos 5 usuarios.| 50 |
-|Testeos de prototipos| Sesiones de testing de la solución propuesta con al menos 5 usuarios. | 60 |
-|Sketching y wireframing| Elaboración de prototipos de baja y mediana fidelidad. | 30 |
-|Prototipado de contenido| Prototipado y testeo del contenido del producto. | 30 |
-|Prototipado de alta fidelidad| Elaboración de prototipo en base a las pantallas diseñadas. | 80 |
+### Usuario 
+![Problema Usuario](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Usuario_Almas%20Dulces.PNG )
 
-## Entrega
+## Propuesta
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+### Branding 
+Almas Dulces no contaba con una imagen de marca, por tal motivo se desarrolló el logotipo, la elección de tipografía, paleta de color y aplicaciones para generar una identidad visual y ser reconocida en canales digitales y eventos. 
 
-README.md  explicando el proceso del proyecto:
-* Objetivos del proyecto
-* Problemas identificados en la investigación (del cliente y del usuario)
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
-* Link a prototipo navegable
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+En la imagen su busca capturar que Almas Dulces es un proyecto de mujeres mexicanas y que los principales dulces que solicitan en el servicio son los mexicanos. Se puede apreciar que la muñeca está sujetando dulces y hojas de stevia, ingrediente que se utiliza para elaborar dulces sin azúcar. 
 
-Un video en Loom de máximo 10 minutos explicando tu documento.
-* Estos 10 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución.
+![Logo](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Logo_Almas%20Dulces.PNG)
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso:
+Consultar más detalles [aquí](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Branding_Almas%20Dulces.png)
 
-* Fotos, videos, guías de las actividades que realizaste
-* Flujo de usuario
-* Mapa de sitio
-* Etc.
+### Red Social
+Almas Dulces cuenta con un perfil en Facebook inactivo, esto representa un área de oportunidad poco aprovechada ya que los consumidores de mesas de dulces utilizan esta red social para obtener recomendaciones en grupos, conocer de cerca los productos y obtener más información. 
 
-## Otras consideraciones
+Como sugerencia se creó una serie de [recomendaciones](https://docs.google.com/presentation/d/1YIshPTla4OqQJqg2smlCV_BipVNBYL9vHF0GQMIW-oo/edit?usp=drive_web&ouid=100503511708662221960) para reactivar el perfil de Facebook de Almas Dulces, continuar con la captación de fans, y aprovechar el chat de Facebook para redirigir al sitio web.
 
-### 1) Planeamiento y presupuesto
+![Template](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Facebook.png)
 
-Cuando realices el planeamiento de cómo enfrentarás el reto deberás sustentarlo
-ante tu cliente y ante un coach. Ellos te darán la aprobación final para seguir
-con las actividades planteadas.
+### Sitio Web
+Una de las principales necesidades de los usuarios es poder personalizar su mesa de dulces acorde al evento, tipo de dulces y decoración. Asimismo, desean tener una visualización previa del tipo de mesa de dulces que se ofrecen, calidad de los productos y costos para la toma de desición. Encontramos que una área de oportunidad era desarrollar un sitio web que lograra satisfacer esta necesidad. 
 
-### 2) Definición del producto
+La web app consiste en: 
+- Cotización: Es una herramienta para realizar una cotización de una mesa de dulces acorde a las necesidades del evento y del cliente. 
+- Galería: Muestra una serie de cinco fotos de las mesas de dulces que se han presentado en diversos eventos, boda, bautizo, XV años, fiestas infantiles, eventos corporativos.
+- Contacto: Redes sociales y número telefonicos para contactar al personas de Almas Dulces.
+- Conocenos: Información detallada del concepto de Almas Dulces, dando a conocer la venta de dulces sin azúcar y el proyecto de donación. 
 
-Al definir el producto recuerda pensar en:
+![Menú](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/men%C3%BA_app_Almas%20Dulces.PNG)
 
-* Quiénes son los principales usuarios de producto
-* Cuáles son los objetivos del negocio en relación con el producto
-* Cuáles son los objetivos de estos usuarios en relación con el producto
-* Cuál será la propuesta de valor del sitio que vas a crear
-* Cuáles son los contenidos que el usuarios quiere ver, la información que
-  buscarían para convencerse de comprar, confiar en la empresa que lo ofrece,
-  encontrar lo que busca y comprarlo
-* Cómo vas a distribuir y entregar esos contenidos
-* Cómo es el flujo que los usuarios que acaben comprando deberán hacer en la web
-* Cómo crees que el producto les está resolviendo sus problemas
+### OBJETIVO UX 
+La experiencia de usuario reside en la herramienta de cotización ya que las personas buscan tener a la brevedad un presupuesto de su mesa de dulces, poderla personalizar y dar seguimiento a la cotización.
 
-### 3) Prototipo de alta fidelidad
+1. El usuario tendrá que llegar un formulario con datos generales; nombre, número de invitados, ubicación del evento, tipo de evento y fecha de realización.
 
-Existen varias herramientas que puedes utilizar para crear tu prototipo,
-nosotros recomendamos Figma, sin embargo, eres libre de utilizar otras
-herramientas como Adobe XD, etc. Si eliges Figma tendrás que usar una
-herramienta adicional como Marvel o Invision. Recuerda que el diseño que
-trabajes debe seguir los fundamentos de visual design, como: contraste,
-alineación, jerarquía, entre otros.
+![menu](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/formulario_AL.PNG)
 
-## Hacker edition
+2. Elegir los dulces correspondientes a su paquete. Podra elegir la marca de cada uno de ellos y servicios adicionales para acompletar la experiencia de su mesa de dulces.
 
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear tu
-propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y JS.
-Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que ser
-mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación
+![elegir](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/elegir%20dulces_AD.PNG)
 
-## Evaluación
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad y cada nivel. 
-A continuación presentamos las habilidades que deberías desarrollar durante este proyecto:
+3. Consultar el presupuesto de la mesa acorde a lo solicitado. 
 
-### UX Design
+![presupuesto](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/hoja%20de%20cotizaci%C3%B3n_AD.PNG)
 
-|Habilidad|
-|:---|
-|User centricity
-|Planificación
-|Entrevistas y testing
-|Observación
-|Síntesis de resultados
-|Flujos de usuario
-|Arquitectura de la información
-|Prototyping
-|Business mindset
-|Visual Design
+4. Enviar la cotización vía correo electronico y/o contactar a Almas Dulces vía Whatsapp para confirmar cotización. 
 
-### Habilidades blandas
+![contacto](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Contacto_AD.PNG)
 
-|Habilidad|
-|:---|
-|Planificación y organización
-|Autoaprendizaje
-|Solución de problemas
-|Dar y recibir feedback
-|Adaptabilidad
-|Trabajo en equipo
-|Comunicación eficaz
-|Presentaciones
+5. Consultar nuevamente. 
+
+#### Sketching 
+El diseño se realizó mobile firts.
+Consultar prototipo [aquí](https://docs.google.com/document/u/0/?usp=docs_web)
+
+#### Flujo de contenido 
+
+![Flujo de contenido](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Flujo%20de%20Informaci%C3%B3n_Almas%20Dulces.jpg)
+
+### Prototipo
+El prototipo del sitio web se diseñó en  Ilustration, Photoshop y Marvel.
+Para visualizar la interfaz dar clic [aquí](https://marvelapp.com/1dj53ig6/screen/54650744) 
+
+![Home](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/home_AD.PNG)
+
+
+### Testing
+El prototipo se testeó con 7 usuarios para conocer las áreas de oportunidad de nuestra web app. Los hallazgos fueron los sigueintes:
+![Testing](https://github.com/Cristalgarcia/UXEcommerceCDMX007/blob/master/assets/Testing_Almas%20Dulces.jpg)
+
+#### Modificaciones 
+
+- Incluir en el sitio web un chat para responder las preguntas más frecuentes de los usuarios.
+- Darle más protagonismo a los dulces sin azúcar.  
+- Darle a los usuarios la posibilidad de  seleccionar más dulces de otras secciones. 
+- Tener la posibilidad de incluir dulces que no estén en el catálogo. 
+
+## Presentación con cliente
+
+- Visualizar la presentación con cliente [aquí](https://docs.google.com/presentation/d/1Afyej12o_nXlqiFQeQZJ-t6elFd_jBuX0SarHZRB1p0/edit#slide=id.p)
+
+## Video en lool
+![video](https://www.useloom.com/share/8a8ecffcd85b4453a6279153a18c2943) 
+
+# Autoras 
+- Nohemi Eugenia Moreno Coronado
+- Cristal Grisel García Gutiérrez
+
+
+
+
+
+
